@@ -43,7 +43,7 @@
     "text-encoding": "^0.7.0",
     "text-encoding-polyfill": "^0.6.7",
     "update": "^0.7.4",
-    "webpack": "^5.52.0",
+    "webpack": "^5.76.0",
     "yup": "^0.32.11"
   },
   "devDependencies": {
